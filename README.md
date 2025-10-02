@@ -1,5 +1,5 @@
 # Environmental microbes
-Metagenomic pipeline to scan waste water metagenomes for the known and unknown microbes and used in the following manuscript:
+Metagenomic pipeline to scan wastewater metagenomes for the known and unknown microbes and used in the following manuscript:
 
 Anna J. Székely, Dhananjay Mukhedkar, Joakim Dillner, Ville N. Pimenoff. Integrated biological and chemical wastewater surveillance across Sweden reveals highly local dynamics of viral, bacteria and chemicals compositions (preprint, BIORXIV/2025/679958)
 
